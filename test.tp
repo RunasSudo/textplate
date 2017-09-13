@@ -1,0 +1,6 @@
+	@command
+	def section(name):
+		print('== {}'.format(name))
+	end
+
+\section{Hello World}
